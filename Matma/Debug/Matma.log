@@ -1,0 +1,5 @@
+﻿  Matma.cpp
+D:\Program\C++\FF\Matma\Matma\Matma.cpp(14,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Program\C++\FF\Matma\Matma\Matma.cpp(20,23): warning C4018: '<': signed/unsigned mismatch
+D:\Program\C++\FF\Matma\Matma\Matma.cpp(36,23): warning C4018: '<': signed/unsigned mismatch
+  Matma.vcxproj -> D:\Program\C++\FF\Matma\Debug\Matma.exe
